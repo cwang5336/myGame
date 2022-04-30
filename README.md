@@ -17,7 +17,8 @@ The MyGame application retrieves video game data from an external API using Reac
 
 <img width="757" alt="Screen Shot 2022-04-30 at 6 48 48 PM" src="https://user-images.githubusercontent.com/61440178/166125558-64db3b0e-7ec5-496e-80e9-7011e856129e.png">
 
-<img width="757" alt="Screen Shot 2022-04-30 at 6 49 02 PM" src="https://user-images.githubusercontent.com/61440178/166125561-82874146-fda6-448a-8598-1b897042e83d.png">
+![image](https://user-images.githubusercontent.com/61440178/166125628-9490bf59-2219-4278-bdcc-11f9eac78b6c.png)
+
 
 <img width="1511" alt="Screen Shot 2022-04-30 at 6 49 43 PM" src="https://user-images.githubusercontent.com/61440178/166125563-e32bb43e-eed7-468b-8fc9-7b014556ac6d.png">
 
