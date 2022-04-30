@@ -8,7 +8,7 @@ function Home() {
 
   const [isLoading, setIsLoading] = useState(true);
   const [data, setData] = useState([]);
-  const [data2, setData2] = useState([]);
+//   const [data2, setData2] = useState([]);
   const [data3, setData3] = useState([]);
   const [data5, setData5] = useState([]);
   const [search, setSearch] = useState("");
@@ -43,14 +43,14 @@ function Home() {
        console.log(data);
 
 
-       let apiURL2 = `https:api.rawg.io/api/games?key=984f8b7df4bc4018b276f791760e39be&dates=2021-01-01,2021-12-31&ordering=-added`;
-          fetch(apiURL2)
-            .then((response) => response.json())
-            .then((json) => { setData2(json["results"]); setIsLoading(false)})
-            .catch((error) => console.log(error));
+//        let apiURL2 = `https:api.rawg.io/api/games?key=984f8b7df4bc4018b276f791760e39be&dates=2021-01-01,2021-12-31&ordering=-added`;
+//           fetch(apiURL2)
+//             .then((response) => response.json())
+//             .then((json) => { setData2(json["results"]); setIsLoading(false)})
+//             .catch((error) => console.log(error));
       
-             //show data
-             console.log(data2);
+//              //show data
+//              console.log(data2);
       
              let apiURL3 = `https://api.rawg.io/api/games?dates=2022-04-29%2C2023-04-29&key=984f8b7df4bc4018b276f791760e39be&ordering=-added&page=2`;
              fetch(apiURL3)
