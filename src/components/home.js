@@ -168,28 +168,7 @@ function Home() {
       </div>
 
 
-//       <div className="container">
-//         <h1 id="catagoryTitle">Biggest Games of Last Year</h1>
-//         <div className="row">
-//           {
-//             data2.map((data2) => (
-           
-//                 <div className="card" key={data2.id}>
-//                   <img
-//                     src={`${data2.background_image}`}
-//                   />
-//                   <p id="rating" className="card-text text-center">{`${data2.rating}`}/5</p>
-//                   <p className="card-text font-weight-bold text-center text-white">
-//                     {data2.name}
-//                   </p>
-//                   {/* <p class="card-text">{`Release date: ${data.release_date}`}</p> */}
-//                 </div>
-          
-//             )
-//           )}
-        
-//       </div>
-//       </div>
+
 
       <div className="container">
         <h1 id="catagoryTitle">Biggest Retro Games</h1>
